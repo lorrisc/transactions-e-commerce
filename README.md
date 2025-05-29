@@ -1,6 +1,7 @@
 # transactions-e-commerce
 
-Nettoyer, transformer et analyser un jeu de données de transactions e-commerce, puis exporter les résultats dans plusieurs formats.
+Nettoyer, transformer et analyser un jeu de données de transactions e-commerce, puis exporter les résultats dans plusieurs formats.  
+L'ETL sera réalisé dans un notebook dans un premier temps, puis sous forme de plusieurs fichiers python pour segmenter et créer un code professionnel.
 
 ## Source de données 
 
